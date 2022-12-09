@@ -1,0 +1,9 @@
+[submodule "AppPersonality"]
+	path = AppPersonality
+	url = git@github.com:c4arl0s/AppPersonality.git
+[submodule "TheDesignCycle"]
+	path = TheDesignCycle
+	url = git@github.com:c4arl0s/TheDesignCycle.git
+[submodule "ProjectPlanning"]
+	path = ProjectPlanning
+	url = git@github.com:c4arl0s/ProjectPlanning.git
